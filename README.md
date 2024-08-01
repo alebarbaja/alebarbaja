@@ -1,16 +1,17 @@
-## Hi there 👋
+👋🏽 Hola, soy Alejandro! Maquetador front end enfocado en crear interfaces intuitivas y accesibles, donde prime la experiencia de usuario. Interesado en los estándares web, sin ellos no habría una base sólida desde donde evolucionar.
 
-<!--
-**alebarbaja/alebarbaja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Un poco de mi 📝
 
-Here are some ideas to get you started:
+Cuando empecé a trabajar me dediqué a dar soporte informático en empresas, en los últimos años he virado de profesión y me adentré en el desarrollo web, donde hay un constante crecimiento y siempre tienes en el horizonte un objetivo que te motiva a seguir aprendiendo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack técnico 🛠️
+
+- Lenguajes: HTML, CSS, PostCSS, JavaScript, TypeScript
+- Frameworks y librerías: React, Astro, MUI
+- Herramientas y plataformas: GitHub, Vercel, Netlify
+
+## Contacto 📬
+
+- [LinkedIn](https://linkedin.com/in/alejandronarvaja)
+- [Email](mailto:job@alejandronarvaja.com)
+- [Twitter](https://twitter.com/alebarbaja)
