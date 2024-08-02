@@ -4,7 +4,9 @@ I'm interested in web standards; without them, there wouldn't be a solid foundat
 
 ## A little about me 📝
 
-I started working in IT support for companies, some of which were government-related; when I moved to Spain in 2017, I changed my career to web development, where there is constant growth and there is always an objective on the horizon that motivates me to keep learning.
+I was born in Argentina. I began my professional journey in IT support for companies, some of which were government-related.
+
+When I moved to Spain in 2017, I changed my career to web development, where there is constant growth and there is always an objective on the horizon that motivates me to keep learning.
 
 ## Tech stack 🛠️
 
