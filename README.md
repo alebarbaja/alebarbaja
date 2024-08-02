@@ -1,16 +1,18 @@
-👋🏽 Hola, soy Alejandro! Maquetador front end enfocado en crear interfaces intuitivas y accesibles, donde prime la experiencia de usuario. Interesado en los estándares web, sin ellos no habría una base sólida desde donde evolucionar.
+👋🏽 Hi, I'm Alejandro! I'm a UI Developer focused on creating accessible and intuitive interfaces, where the user experience is the main focus.
 
-## Un poco de mi 📝
+I'm interested in web standards; without them, there wouldn't be a solid foundation for evolution.
 
-Cuando empecé a trabajar me dediqué a dar soporte informático en empresas, en los últimos años he virado de profesión y me adentré en el desarrollo web, donde hay un constante crecimiento y siempre tienes en el horizonte un objetivo que te motiva a seguir aprendiendo.
+## A little about me 📝
 
-## Stack técnico 🛠️
+I started working in IT support for companies, some of which were government-related; when I moved to Spain in 2017, I changed my career to web development, where there is constant growth and there is always an objective on the horizon that motivates me to keep learning.
 
-- Lenguajes: HTML, CSS, PostCSS, JavaScript, TypeScript
-- Frameworks y librerías: React, Astro, MUI
-- Herramientas y plataformas: GitHub, Vercel, Netlify
+## Tech stack 🛠️
 
-## Contacto 📬
+- Languages: HTML, CSS, PostCSS, JavaScript, TypeScript.
+- Frameworks and libraries: React, Astro, MUI, TailwindCSS.
+- Tools and platforms: GitHub, Vercel, Netlify.
+
+## Contact me 📬
 
 - [LinkedIn](https://linkedin.com/in/alejandronarvaja)
 - [Email](mailto:job@alejandronarvaja.com)
